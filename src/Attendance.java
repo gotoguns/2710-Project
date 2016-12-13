@@ -59,7 +59,7 @@ public class Attendance extends JFrame {
          		
                 Attendance frame = new Attendance();
                 frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
-                frame.setTitle("");
+                frame.setTitle("ATTENDANCE");
                 frame.pack();
                 frame.setLocationRelativeTo(null);
                 frame.setVisible(true);
